@@ -1,0 +1,7 @@
+/gradle/
+/.idea/
+/.gradle/
+/gradlew.bat
+/gradlew
+/settings.gradle
+/.allure/
